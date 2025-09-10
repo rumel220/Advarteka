@@ -28,5 +28,11 @@
         "key": "200",
         "expirydate": "15-06-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "dd85d2409e4e482f",
+        "key": "nazim20",
+        "expirydate": "17-09-2025",
+        "Allowoffline": false
     }
 ]
